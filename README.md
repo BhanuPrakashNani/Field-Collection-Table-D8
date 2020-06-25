@@ -22,7 +22,7 @@ This module provides both a field formatter and a widget for the Field Collectio
 
 The modules required are:
 
-    [Field Collection](https://www.drupal.org/project/field_collection)
+   [Field Collection](https://www.drupal.org/project/field_collection)
 
 ## INSTALLATION
 
